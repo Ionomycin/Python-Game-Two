@@ -10,7 +10,8 @@
 7. That's all there is to it! This will be how you run ALL of my programs. Any additional materials will ALWAYS be provided and I will explain how to use them step by step.
 
 Enjoy
-**--Ionomycin**
+**-
+-Ionomycin**
 
 The program I have coded, will take user input and compare it to that of the RNG module in IDLE (Python) and do some more intricate operations than the first program I created. See comments inside of the program for more information.
 
