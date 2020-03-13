@@ -9,10 +9,9 @@
 6. To run the program, click "Run > Run Module" in the top navigation bar. It may have you save the document. If this happens, click "Save" and it should automatically execute my program.
 7. That's all there is to it! This will be how you run ALL of my programs. Any additional materials will ALWAYS be provided and I will explain how to use them step by step.
 
-Enjoy,
-
-**--Ionomycin**
-
+Enjoy
+--Ionomycin
+------------------------------------------------------------------------------------------------------------------------------
 The program I have coded, will take user input and compare it to that of the RNG module in IDLE (Python) and do some more intricate operations than the first program I created. See comments inside of the program for more information.
 
 I haven't added exception catching to this program yet so it only accepts INTEGER VALUES. You WILL recieve errors for inputting floating-point (e.g., 0.5) values and strings (e.g. "string").
